@@ -1,2 +1,2 @@
-# data_scienceRepo
+# data_science projects
 
